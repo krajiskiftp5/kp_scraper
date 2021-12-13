@@ -1,0 +1,8 @@
+{
+    "proxy":"http://proxy.rcub.bg.ac.rs:8080",
+    "link_structure": [
+        {"part1":"https://www.kupujemprodajem.com/kompjuteri-desktop/polovni-kompjuteri/search.php?action=list&data%5Bpage%5D=",
+"part2":"&data%5Bad_kind%5D=goods&data%5Bcategory_id%5D=10&data%5Bgroup_id%5D=98&data%5Border%5D=price&submit%5Bsearch%5D=Tra%C5%BEi&dummy=name&data%5Bprice_from%5D="},
+        {"part1":"https://www.kupujemprodajem.com/kompjuteri-laptop-i-tablet/laptopovi/search.php?action=list&data%5Bpage%5D=", "part2":"&data%5Bad_kind%5D=goods&data%5Bcategory_id%5D=1221&data%5Bgroup_id%5D=101&data%5Border%5D=price&submit%5Bsearch%5D=Tra%C5%BEi&dummy=name&data%5Bprice_from%5D="},
+    {"part3":"&data%5Bprice_to%5D="},{"part4":"&data%5Bcurrency%5D=eur"}]
+}
